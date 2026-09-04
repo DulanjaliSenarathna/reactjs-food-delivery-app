@@ -4,7 +4,7 @@ import { useState } from 'react'
 import axios from 'axios'
 import { toast } from 'react-toastify';
 import { useEffect } from 'react';
-import { assets } from './../../../../frontend/src/assets/assets';
+import { assets } from './../../assets/assets';
 
 const Orders = ({url}) => {
 

@@ -147,17 +147,9 @@ The API endpoints for the backend can be documented using tools like Postman or 
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include relevant tests.
 
-👨‍💻 Contributors
+[LinkedIn](https://www.linkedin.com/in/habeeb-wasif-279654376/)
 
-[Dulanjali Senarathna](https://github.com/DulanjaliSenarathna)
- — Project Owner
-
-[prem2621](https://github.com/prem2621)
- — Bug fixes, secure env handling, image display improvement
-
-## 📫 Contact
-For any questions or suggestions, feel free to contact me.
-
+👨‍💻
 Happy coding!
 
 Feel free to customize this template according to your specific project details and requirements.
